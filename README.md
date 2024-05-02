@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+<br />
+> Status do Projeto: :heavy_check_mark: Concluído
 
 ### Tópicos 
 
