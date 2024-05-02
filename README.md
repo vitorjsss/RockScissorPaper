@@ -11,13 +11,9 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Instruções](#instruções)
 
 :small_blue_diamond: [Layout](#deploy-da-aplicação-dash)
-
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
